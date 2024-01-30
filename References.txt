@@ -1,0 +1,10 @@
+https://www.math.uwaterloo.ca/~bico/papers/match_ijoc.pdf
+Computing Minimum-Weight Perfect Matchings
+
+apps.dtic.mil/dtic/tr/fulltext/u2/a025602.pdf
+WORST-CASE ANALYSIS OF A NEW HEURISTIC
+FOR THE TRAVELLING SALESMAN PROBLEM
+
+https://www.cs.ubc.ca/~hutter/previous-earg/EmpAlgReadingGroup/TSP-JohMcg97.pdf
+The Traveling Salesman Problem:
+A Case Study in Local Optimization
